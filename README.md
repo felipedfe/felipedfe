@@ -6,7 +6,7 @@ Hi! 🤗 My name is Felipe Fernandes
 
 *   🖥️  See my portfolio at [felipedfe.github.io](https://felipedfe.github.io/)
 *   ✉️  You can contact me at [felipedfe@gmail.com](mailto:felipedfe@gmail.com)
-*   🧠  I'm learning CSS Animations
+*   🧠  I'm currently learning __Web Crawling__ with Python
 *   💖  Coding | Art | Illustration
 *   🕹  Retro Gamer
 ### Skills 
