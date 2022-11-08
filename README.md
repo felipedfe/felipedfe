@@ -4,7 +4,7 @@ Hi! 🤗 My name is Felipe Fernandes
 ### Junior Front-End Developer
 --------------------------
 
-*   🖥️  See my portfolio at [felipedfe.github.io/](http://https://felipedfe.github.io/)
+*   🖥️  See my portfolio at [felipedfe.github.io/](https://felipedfe.github.io/)
 *   ✉️  You can contact me at [felipedfe@gmail.com](mailto:felipedfe@gmail.com)
 *   🧠  I'm learning CSS Animations
 *   💖  Coding | Art | Illustration
