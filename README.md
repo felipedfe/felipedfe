@@ -1,15 +1,15 @@
-Hi! 🤗 My name is Felipe Fernandes
+Olá! 🤗 Meu nome é Felipe Fernandes
 =================================
 
-### Junior Front-End Developer
+### Desenvolvedor Front-End Junior
 --------------------------
 
-*   🖥️  See my portfolio at [felipedfe.github.io](https://felipedfe.github.io/)
-*   ✉️  You can contact me at [felipedfe@gmail.com](mailto:felipedfe@gmail.com)
-*   🧠  I'm currently learning __Web Crawling__ with Python
-*   💖  Coding | Art | Illustration
+*   🖥️  Veja meu portfólio em [felipedfe.github.io](https://felipedfe.github.io/)
+*   ✉️  Meu contato: [felipedfe@gmail.com](mailto:felipedfe@gmail.com)
+*   🧠  Atualmente estou estudando __Raspagem de dados__ com Python
+*   💖  Codar | Arte | Ilustração
 *   🕹  Retro Gamer
-### Skills 
+### Habilidades 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -26,7 +26,7 @@ Hi! 🤗 My name is Felipe Fernandes
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
 </p>
 
-### Socials
+### Redes Sociais
 <p align="left">
 <a href="https://www.linkedin.com/in/felipedfe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.codewars.com/users/felipe_de_fe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/felipedfe/felipedfe/main/assets/codewars.svg" width="32" height="32" /></a>
