@@ -4,7 +4,7 @@ Olá! 🤗 Meu nome é Felipe Fernandes
 ### Desenvolvedor Front-End Junior
 --------------------------
 
-*   🖥️ Veja meu portfólio em [felipedfe.github.io](https://felipedfe.github.io/)
+*   🖥️   Veja meu portfólio em [felipedfe.github.io](https://felipedfe.github.io/)
 *   ✉️  Meu contato: [felipedfe@gmail.com](mailto:felipedfe@gmail.com)
 *   🧠  Atualmente estou estudando __Raspagem de dados__ com Python
 *   💖  Codar | Arte | Ilustração
