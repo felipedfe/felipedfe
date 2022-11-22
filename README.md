@@ -31,5 +31,4 @@ Hi! 🤗 My name is Felipe Fernandes
 <a href="https://www.linkedin.com/in/felipedfe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.codewars.com/users/felipe_de_fe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/felipedfe/felipedfe/main/assets/codewars.svg" width="32" height="32" /></a>
 <a href="https://www.behance.net/felipedfe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/felipedfe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 </p>
