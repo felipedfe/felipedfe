@@ -1,13 +1,13 @@
-Olá! 🤗 Meu nome é Felipe Fernandes
+Hi! 🤗 My name is Felipe Fernandes
 =================================
 
-### Desenvolvedor Front-End Junior
+### Front End Developer
 --------------------------
 
-*   🖥️   Veja meu portfólio em [felipedfe.github.io](https://felipedfe.github.io/)
+*   🖥️   Checkout my portfolio at [felipedfe.github.io](https://felipedfe.github.io/)
 *   ✉️  Meu contato: [felipedfe@gmail.com](mailto:felipedfe@gmail.com)
-*   🧠  Atualmente estou estudando __Raspagem de dados__ com Python
-*   💖  Codar | Arte | Ilustração
+*   🧠  I am currently studying __data scraping__ with Python
+*   💖  Coding | Art | Illustration
 *   🕹  Retro Gamer
 ### Habilidades 
 <p align="left">
