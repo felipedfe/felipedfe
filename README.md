@@ -9,7 +9,7 @@ Hi! 🤗 My name is Felipe Fernandes
 *   🧠  I am currently studying __data scraping__ with Python
 *   💖  Coding | Art | Illustration
 *   🕹  Retro Gamer
-### Habilidades 
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -26,9 +26,9 @@ Hi! 🤗 My name is Felipe Fernandes
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
 </p>
 
-### Redes Sociais
+### Social Media
 <p align="left">
 <a href="https://www.linkedin.com/in/felipedfe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.codewars.com/users/felipe_de_fe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/felipedfe/felipedfe/main/assets/codewars.svg" width="32" height="32" /></a>
-<a href="https://www.behance.net/felipedfe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
+<!-- <a href="https://www.behance.net/felipedfe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> -->
 </p>
