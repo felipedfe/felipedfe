@@ -6,7 +6,7 @@ Hi! 🤗 My name is Felipe Fernandes
 
 *   🖥️    Checkout my portfolio at [felipedfe.github.io](https://felipedfe.github.io/)
 *   ✉️  [felipedfe@gmail.com](mailto:felipedfe@gmail.com)
-*   🧠  I am currently studying __data scraping__ with Python
+*   🧠  I am currently studying __TypeScript__
 *   💖  Coding | Art | Illustration
 *   🕹  Retro Gamer
 ### Skills 
