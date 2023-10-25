@@ -4,7 +4,7 @@ Hi! 🤗 My name is Felipe Fernandes
 ### Front End Developer
 --------------------------
 
-*   🖥️    Checkout my portfolio at [felipedfe.github.io](https://felipedfe.github.io/)
+[]: # (*   🖥️    Checkout my portfolio at [felipedfe.github.io](https://felipedfe.github.io/))
 *   ✉️  [felipedfe@gmail.com](mailto:felipedfe@gmail.com)
 *   🧠  I am currently studying __TypeScript__
 *   💖  Coding | Art | Illustration
