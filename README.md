@@ -5,7 +5,7 @@ Hi! 🤗 My name is Felipe Fernandes
 --------------------------
 
 *   ✉️  [felipedfe@gmail.com](mailto:felipedfe@gmail.com)
-*   🧠  I am currently studying __TypeScript__
+*   🧠  I am currently studying __Phaser 3__
 *   💖  Coding | Art | Illustration
 *   🕹  Retro Gamer
 ### Skills 
