@@ -1,0 +1,323 @@
+{
+    "dados": {
+        "extractor_data": {
+            "layout_id": 1913,
+            "distribuidora_sorter": "COPEL",
+            "version": "1.2",
+            "file_name": "copel2.pdf",
+            "codigo_unidade_consumidora": "TBD",
+            "codigo_empresa": "TBD",
+            "codigo_contrato": "TBD",
+            "codigo_database": "TBD",
+            "codigo_matriz": "TBD",
+            "id_extracao": 497803,
+            "link_fatura": "copel2.pdf"
+        },
+        "dados_cliente": {
+            "nome_empresa": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
+            "cnpj": "34028316/4574-05",
+            "modalidade": "",
+            "classe": "Comercial,",
+            "subclasse": "",
+            "tipo_ligacao": "Trifasico /70A",
+            "unidade_consumidora": "56919344",
+            "unidade_consumidora_2": "",
+            "codigo_cliente": "",
+            "conta_contrato": "",
+            "concessionaria": "COPEL",
+            "inscricao_estadual": "",
+            "endereco": {
+                "logradouro": "Av Presidente Castelo Branco,",
+                "numero": "241",
+                "bairro": "Comercial",
+                "cidade": "Terra Roxa",
+                "estado": "PR",
+                "cep": "85990-000"
+            },
+            "dados_cliente": "Nome: EMPRESA BRASILEIRA DE\nCORREIOS E TELEGRAFOS\nEndere\u00e7o: Av Presidente Castelo Branco, 241 -\nAc Terra Roxa - Comercial\nCEP: 85990-000\nCidade: Terra Roxa - Estado: PR\nCNPJ: 34028316/4574-05\nI.E.:ISENTO",
+            "classificacao": "B3 Comercial, Servicos, Outras Atividades / Ativ do Correio"
+        },
+        "dados_fiscais": {
+            "fisco": "955B.A107.DC40.9819.08B9.92D8.C33E.E87F",
+            "nota_fiscal": "214737304",
+            "serie_nota_fiscal": "3",
+            "chave_acesso": "4126 0204 3688 9800 0106 6600 3214 7373 0410 3598 9412",
+            "protocolo_autorizacao": "1412600006565205",
+            "codigo_de_barras": "",
+            "codigo_de_barras_2": "",
+            "qr_code": "NOTA FISCAL No. 214737304 - S\u00c9RIE 3 / DATA DE EMISS\u00c3O: 06/02/2026\nConsulte Chave de Acesso em:\nhttps://nf3e.fazenda.pr.gov.br/nf3e/NF3eConsulta?wsdl\nChave de Acesso\n4126 0204 3688 9800 0106 6600 3214 7373 0410 3598 9412\nProtocolo de Autoriza\u00e7\u00e3o: 1412600006565205 - 06/02/2026 \u00e0s"
+        },
+        "dados_basicos": {
+            "mes_referencia": "02/2026",
+            "data_vencimento": "24/02/2026",
+            "data_leitura_anterior": "06/01/2026",
+            "data_leitura_atual": "05/02/2026",
+            "data_emissao_fatura": "06/02/2026",
+            "data_apresentacao": "",
+            "descricao_datas": "",
+            "dias_fatura": "30",
+            "total_fatura": "R$1.103,57",
+            "dados_informativo_faturas": {
+                "informacoes_fatura_01": "",
+                "informacoes_fatura_02": "Grupo de Tensao / Modalidade Tarifaria: B - CONVENCIONAL\nRETEN\u00c7\u00c3O DE TRIBUTOS FEDERAIS - LEI 10.833/2003 R$ 61,26\nFATURA AGRUPADA - NAO RECEBER\nA qualquer tempo pode ser solicitado o cancelamento de valores n\u00e3o relacionados \u00e0 presta\u00e7\u00e3o do servi\u00e7o de\nenergia el\u00e9trica, como conv\u00eanios e doa\u00e7\u00f5es.\nPeriodos Band.Tarif.: Verde:07/01-05/02",
+                "informacoes_fatura_03": "",
+                "informacoes_fatura_04": "",
+                "informacoes_fatura_05": "",
+                "aviso_de_corte": "TBD"
+            }
+        },
+        "dados_gerais": {
+            "dados_tributos": {
+                "0": {
+                    "descricao": "ICMS",
+                    "base_calculo": "1.037,35",
+                    "aliquota": "19%",
+                    "valor": "197,10"
+                },
+                "1": {
+                    "descricao": "COFINS",
+                    "base_calculo": "840,26",
+                    "aliquota": "7,60%",
+                    "valor": "63,86"
+                },
+                "2": {
+                    "descricao": "PIS",
+                    "base_calculo": "840,26",
+                    "aliquota": "1,65%",
+                    "valor": "13,86"
+                },
+                "3": {
+                    "descricao": "IRPJ",
+                    "base_calculo": "1.047,51",
+                    "aliquota": "1,20%",
+                    "valor": "-12,57"
+                },
+                "4": {
+                    "descricao": "PIS",
+                    "base_calculo": "1.047,51",
+                    "aliquota": "0,65%",
+                    "valor": "-6,80"
+                },
+                "5": {
+                    "descricao": "COFINS",
+                    "base_calculo": "1.047,51",
+                    "aliquota": "3%",
+                    "valor": "-31,42"
+                },
+                "6": {
+                    "descricao": "CSLL",
+                    "base_calculo": "1.047,51",
+                    "aliquota": "1%",
+                    "valor": "-10,47"
+                }
+            },
+            "dados_historico": {
+                "0": {
+                    "data": "FEV26",
+                    "consumo_fora_ponta": "1187",
+                    "numero_dias": "30"
+                },
+                "1": {
+                    "data": "JAN26",
+                    "consumo_fora_ponta": "793",
+                    "numero_dias": "32"
+                },
+                "2": {
+                    "data": "DEZ25",
+                    "consumo_fora_ponta": "697",
+                    "numero_dias": "30"
+                },
+                "3": {
+                    "data": "NOV25",
+                    "consumo_fora_ponta": "505",
+                    "numero_dias": "30"
+                },
+                "4": {
+                    "data": "OUT25",
+                    "consumo_fora_ponta": "762",
+                    "numero_dias": "33"
+                },
+                "5": {
+                    "data": "SET25",
+                    "consumo_fora_ponta": "482",
+                    "numero_dias": "29"
+                },
+                "6": {
+                    "data": "AGO25",
+                    "consumo_fora_ponta": "496",
+                    "numero_dias": "32"
+                },
+                "7": {
+                    "data": "JUL25",
+                    "consumo_fora_ponta": "468",
+                    "numero_dias": "29"
+                },
+                "8": {
+                    "data": "JUN25",
+                    "consumo_fora_ponta": "688",
+                    "numero_dias": "30"
+                },
+                "9": {
+                    "data": "MAI25",
+                    "consumo_fora_ponta": "711",
+                    "numero_dias": "29"
+                },
+                "10": {
+                    "data": "ABR25",
+                    "consumo_fora_ponta": "1036",
+                    "numero_dias": "26"
+                },
+                "11": {
+                    "data": "MAR25",
+                    "consumo_fora_ponta": "1366",
+                    "numero_dias": "33"
+                },
+                "12": {
+                    "data": "FEV25",
+                    "consumo_fora_ponta": "1588",
+                    "numero_dias": "32"
+                }
+            },
+            "dados_itens": {
+                "0": {
+                    "descricao": "ENERGIA ELET CONSUMO",
+                    "unidade_medida": "kWh",
+                    "quantidade": "1.187",
+                    "tarifa_com_tributos": "0,375122",
+                    "valor": "445,27",
+                    "valor_pis_cofins": "33,36",
+                    "valor_icms": "84,60",
+                    "tarifa_sem_tributos": "0,275750"
+                },
+                "1": {
+                    "descricao": "ENERGIA ELET USO SISTEMA",
+                    "unidade_medida": "kWh",
+                    "quantidade": "1.187",
+                    "tarifa_com_tributos": "0,498812",
+                    "valor": "592,09",
+                    "valor_pis_cofins": "44,36",
+                    "valor_icms": "112,50",
+                    "tarifa_sem_tributos": "0,366670"
+                },
+                "2": {
+                    "descricao": "MULTA POR ATRASO NO PAGAMENTO",
+                    "unidade_medida": "UN",
+                    "quantidade": null,
+                    "tarifa_com_tributos": "9,430000",
+                    "valor": "9,43",
+                    "valor_pis_cofins": null,
+                    "valor_icms": null,
+                    "tarifa_sem_tributos": null
+                },
+                "3": {
+                    "descricao": "JUROS CONTA ANTERIOR",
+                    "unidade_medida": "UN",
+                    "quantidade": null,
+                    "tarifa_com_tributos": "0,620000",
+                    "valor": "0,62",
+                    "valor_pis_cofins": null,
+                    "valor_icms": null,
+                    "tarifa_sem_tributos": null
+                },
+                "4": {
+                    "descricao": "ACRESCIMO MORATORIO",
+                    "unidade_medida": "UN",
+                    "quantidade": null,
+                    "tarifa_com_tributos": "0,100000",
+                    "valor": "0,10",
+                    "valor_pis_cofins": null,
+                    "valor_icms": null,
+                    "tarifa_sem_tributos": null
+                },
+                "5": {
+                    "descricao": "CONT ILUMIN PUBLICA MUNICIPIO",
+                    "unidade_medida": "UN",
+                    "quantidade": null,
+                    "tarifa_com_tributos": "117,320000",
+                    "valor": "117,32",
+                    "valor_pis_cofins": null,
+                    "valor_icms": null,
+                    "tarifa_sem_tributos": null
+                },
+                "6": {
+                    "descricao": "IMP.RET. PIS (0,65%)",
+                    "unidade_medida": "UN",
+                    "quantidade": null,
+                    "tarifa_com_tributos": "6,800000",
+                    "valor": "-6,80",
+                    "valor_pis_cofins": null,
+                    "valor_icms": null,
+                    "tarifa_sem_tributos": null
+                },
+                "7": {
+                    "descricao": "IMP.RET. COFINS (3,00%)",
+                    "unidade_medida": "UN",
+                    "quantidade": null,
+                    "tarifa_com_tributos": "31,420000",
+                    "valor": "-31,42",
+                    "valor_pis_cofins": null,
+                    "valor_icms": null,
+                    "tarifa_sem_tributos": null
+                },
+                "8": {
+                    "descricao": "IMP.RET. CSLL (1,00%)",
+                    "unidade_medida": "UN",
+                    "quantidade": null,
+                    "tarifa_com_tributos": "10,470000",
+                    "valor": "-10,47",
+                    "valor_pis_cofins": null,
+                    "valor_icms": null,
+                    "tarifa_sem_tributos": null
+                },
+                "9": {
+                    "descricao": "IMP.RET. IRPJ (1,20%)",
+                    "unidade_medida": "UN",
+                    "quantidade": null,
+                    "tarifa_com_tributos": "12,570000",
+                    "valor": "-12,57",
+                    "valor_pis_cofins": null,
+                    "valor_icms": null,
+                    "tarifa_sem_tributos": null
+                },
+                "10": {
+                    "descricao": "TOTAL",
+                    "unidade_medida": null,
+                    "quantidade": null,
+                    "tarifa_com_tributos": null,
+                    "valor": "1.103,57",
+                    "valor_pis_cofins": "77,72",
+                    "valor_icms": "197,10",
+                    "tarifa_sem_tributos": null
+                }
+            },
+            "dados_medidor": {
+                "leituras": {
+                    "0045773898": {
+                        "unidade_medida": null,
+                        "posto_horario": "TP",
+                        "leitura_atual": "4455",
+                        "leitura_anterior": "3268",
+                        "fator_multiplicador": null,
+                        "perdas": null,
+                        "fator_potencia": "1",
+                        "ajuste_fator_potencia": null,
+                        "consumo_medido": "1187",
+                        "consumo_faturado": null,
+                        "medidor": "0045773898",
+                        "grandeza": "CONSUMO kWh"
+                    }
+                },
+                "medidor": [
+                    "0045773898"
+                ]
+            },
+            "dados_demanda": {
+                "tbl_demanda_contratada": {},
+                "demanda_contratada_ponta": {},
+                "demanda_contratada_fora_ponta": {}
+            }
+        }
+    },
+    "status": null,
+    "mensagem": null
+}
