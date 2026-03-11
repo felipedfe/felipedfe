@@ -1,0 +1,184 @@
+{
+  "dados": {
+    "extractor_data": {
+      "layout_id": 1913,
+      "distribuidora_sorter": "COPEL",
+      "version": "1.2",
+      "file_name": "CopeljsonLockdownForcado.json",
+      "codigo_unidade": 412,
+      "codigo_empresa": 2,
+      "codigo_concessionaria": 2313,
+      "codigo_database": 2,
+      "codigo_matriz": 2,
+      "id_extracao": 1001994,
+      "link_fatura": "https://example.com/copel-lockdown.pdf",
+      "link_json": "local://CopeljsonLockdownForcado.json"
+    },
+    "dados_cliente": {
+      "nome_empresa": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
+      "cnpj": "",
+      "modalidade": "A4",
+      "classe": "Comercial",
+      "subclasse": "",
+      "tipo_ligacao": "Trifasico /70A",
+      "unidade_consumidora": "56919344",
+      "codigo_cliente": "123456",
+      "conta_contrato": "123456789",
+      "concessionaria": "COPEL",
+      "inscricao_estadual": "ISENTO",
+      "endereco": {
+        "logradouro": "Av Presidente Castelo Branco",
+        "numero": "241",
+        "bairro": "Centro",
+        "cidade": "Terra Roxa",
+        "estado": "PR",
+        "cep": "85990-000"
+      }
+    },
+    "dados_fiscais": {
+      "fisco": "955B.A107.DC40.9819.08B9.92D8.C33E.E87F",
+      "nota_fiscal": "214737304",
+      "serie_nota_fiscal": "3",
+      "chave_acesso": "4126 0204 3688 9800 0106 6600 3214 7373 0410 3598 9412",
+      "protocolo_autorizacao": "1412600006565205",
+      "codigo_de_barras": "",
+      "codigo_de_barras_2": ""
+    },
+    "dados_basicos": {
+      "mes_referencia": "02/2026",
+      "data_vencimento": "24/02/2026",
+      "data_leitura_anterior": "06/01/2026",
+      "data_leitura_atual": "05/02/2026",
+      "data_emissao_fatura": "06/02/2026",
+      "data_apresentacao": "",
+      "dias_fatura": "30",
+      "total_fatura": "R$1.103,57",
+      "dados_informativo_faturas": {
+        "informacoes_fatura_01": "",
+        "informacoes_fatura_02": "FATURA AGRUPADA - NAO RECEBER",
+        "informacoes_fatura_03": "",
+        "informacoes_fatura_04": "",
+        "informacoes_fatura_05": "",
+        "aviso_de_corte": "TBD"
+      }
+    },
+    "dados_gerais": {
+      "dados_tributos": [
+        {
+          "descricao": "ICMS",
+          "base_calculo": "1037,35",
+          "aliquota": "19",
+          "valor": "197,10"
+        },
+        {
+          "descricao": "PIS",
+          "base_calculo": "840,26",
+          "aliquota": "1,65",
+          "valor": "13,86"
+        }
+      ],
+      "dados_historico": [
+        {
+          "data": "FEV26",
+          "consumo_fora_ponta": "1187",
+          "numero_dias": "30"
+        }
+      ],
+      "dados_itens": [
+        {
+          "descricao": "ENERGIA ELET CONSUMO",
+          "unidade_medida": "kWh",
+          "quantidade": "1187",
+          "tarifa_com_tributos": "0,375122",
+          "valor": "445,27",
+          "valor_pis_cofins": "33,36",
+          "valor_icms": "84,60",
+          "tarifa_sem_tributos": "0,275750"
+        }
+      ],
+      "dados_medidor": {
+        "leituras": [
+          {
+            "unidade_medida": "kWh",
+            "posto_horario": "TP",
+            "leitura_atual": "4455",
+            "leitura_anterior": "3268",
+            "fator_multiplicador": "1",
+            "perdas": "0",
+            "fator_potencia": "1",
+            "ajuste_fator_potencia": "0",
+            "consumo_medido": "1187",
+            "consumodo": "1187",
+            "medidor": "0045773898",
+            "grandeza": "CONSUMO kWh"
+          }
+        ],
+        "medidor": [
+          "0045773898"
+        ]
+      },
+      "dados_demanda": [
+        {
+          "descricao": "DEMANDA CONTRATADA",
+          "quantidade": "0"
+        }
+      ]
+    },
+    "dados_gerais_fatura": {
+      "dados_tributos_fatura": [
+        {
+          "descricao": "ICMS",
+          "base_calculo": "1037,35",
+          "aliquota": "19",
+          "valor": "197,10"
+        }
+      ],
+      "dados_historico_fatura": [
+        {
+          "data": "FEV26",
+          "consumo_fora_ponta": "1187",
+          "numero_dias": "30"
+        }
+      ],
+      "dados_historico_faturamento": [
+        {
+          "data": "FEV26",
+          "consumo_fora_ponta": "1187",
+          "numero_dias": "30"
+        }
+      ],
+      "dados_itens_fatura": [
+        {
+          "descricao": "ENERGIA ELET CONSUMO",
+          "unidade_medida": "kWh",
+          "quantidade": "1187",
+          "tarifa_com_tributos": "0,375122",
+          "valor": "445,27"
+        }
+      ],
+      "dados_medidor": {
+        "leituras": [
+          {
+            "unidade_medida": "kWh",
+            "posto_horario": "TP",
+            "leitura_atual": "4455",
+            "leitura_anterior": "3268",
+            "consumo_medido": "1187",
+            "medidor": "0045773898"
+          }
+        ],
+        "medidor": [
+          "0045773898"
+        ]
+      },
+      "dados_demanda_fatura": [
+        {
+          "descricao": "DEMANDA CONTRATADA",
+          "quantidade": "0"
+        }
+      ]
+    }
+  },
+  "status": null,
+  "mensagem": null
+}
