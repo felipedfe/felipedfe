@@ -1,4 +1,4 @@
-Hi! My name is Felipe Fernandes
+Hi! My name is Felipe
 =================================
 
 ### Front End Developer (unless backend needs me 🚀)
