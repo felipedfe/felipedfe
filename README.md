@@ -4,7 +4,7 @@ Hi! My name is Felipe
 ### Front End Developer (unless backend needs me 🚀)
 --------------------------
 
-*   ✉️  [felipedfe@gmail.com](mailto:felipedfe@gmail.com)
+*   ✉️  felipedfe@gmail.com
 *   🧠  I am currently studying __Selenium__ and __Godot__
 *   💖  Coding | Art | Illustration
 *   🕹  Retro Gamer
