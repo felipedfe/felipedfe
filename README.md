@@ -1,14 +1,14 @@
-Hi! My name is Felipe Fernandes
+Hi! My name is Felipe
 =================================
 
 ### Front End Developer (unless backend needs me 🚀)
 --------------------------
 
-*   ✉️  [felipedfe@gmail.com](mailto:felipedfe@gmail.com)
-*   🧠  I am currently studying __Selenium__ and __Godot__
+*   ✉️  felipedfe@gmail.com
 *   💖  Coding | Art | Illustration
 *   🕹  Retro Gamer
-### Skills 
+
+<!--### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -28,5 +28,5 @@ Hi! My name is Felipe Fernandes
 <p align="left">
 <a href="https://www.linkedin.com/in/felipedfe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.codewars.com/users/felipe_de_fe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/felipedfe/felipedfe/main/assets/codewars.svg" width="32" height="32" /></a>
-<!-- <a href="https://www.behance.net/felipedfe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> -->
-</p>
+ <a href="https://www.behance.net/felipedfe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> 
+</p>-->
